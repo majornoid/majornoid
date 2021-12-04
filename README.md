@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Linkedin Badge](https://img.shields.io/badge/Michael_French-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morganjackson-68-65-6c-6c-6f/)](https://www.linkedin.com/in/morganjackson-68-65-6c-6c-6f/)
+
+
+
+###   &nbsp;About Me
+
+- 👨‍🎓 I'm currently studying Computer Science at Southern Illinois University Edwardsville (Graduating May 2023)
+- ⚙️ Some the programming languages I've used include: Python, C, C++, Java, Javascript, Typescript
+- 🌱 Currently learning about Operating Systems, Data Structures and Algorithms, Human Computer Interactions, and more!
+
+### 📊 Github Stats
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=majornoid&show_icons=true">
