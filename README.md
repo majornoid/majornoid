@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 I'm currently studying Computer Science at Southern Illinois University Edwardsville (Graduating May 2023)
 - ⚙️ Some the programming languages I've used include: Python, C, C++, Java, Javascript, Typescript
-- - 😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 <!--
 ### 📊 Github Stats
 
