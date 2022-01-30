@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Linkedin Badge](https://img.shields.io/badge/Morgan_Jackson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morganjackson-68-65-6c-6c-6f/)](https://www.linkedin.com/in/morganjackson-68-65-6c-6c-6f/)
 
+[Portfolio](https://majornoid.github.io/#/)
 
 
 ###   &nbsp;About Me
