@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**majornoid/majornoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mbjackson7/mbjackson7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Linkedin Badge](https://img.shields.io/badge/Morgan_Jackson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morganjackson-68-65-6c-6c-6f/)](https://www.linkedin.com/in/morganjackson-68-65-6c-6c-6f/)
 
-[Portfolio](https://majornoid.github.io/#/)
+[Portfolio](https://mbjackson7.github.io/#/)
 
 
 ###   &nbsp;About Me
@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 <!--
 ### 📊 Github Stats
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=majornoid&show_icons=true">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=mbjackson7&show_icons=true">
 -->
