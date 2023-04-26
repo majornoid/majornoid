@@ -24,8 +24,11 @@ Here are some ideas to get you started:
 - 👨‍🎓 I'm currently studying Computer Science (Graduating May 2023)
 - ⚙️ Some the programming languages I've used include: Python, C, C++, Java, C#, Javascript, Typescript
 - 😄 Pronouns: he/him
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbjackson7&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <!--
 ### 📊 Github Stats
+
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=mbjackson7&show_icons=true">
 -->
