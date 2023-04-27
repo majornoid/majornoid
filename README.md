@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚙️ Some the programming languages I've used include: Python, C, C++, Java, C#, Javascript, Typescript
 - 😄 Pronouns: he/him
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbjackson7&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbjackson7&show_icons=true&locale=en&layout=compact&theme=react" alt="ovi" />
 <!--
 ### 📊 Github Stats
 
