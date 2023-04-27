@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbjackson7&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=apprentice&show_icons=true" alt="stats" />
 <!--
 ### 📊 Github Stats
 
