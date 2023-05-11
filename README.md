@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ###   &nbsp;About Me
-
-- 👨‍🎓 I'm currently studying Computer Science (Graduating May 2023)
+- Software Consultant
 - ⚙️ Some the programming languages I've used include: Python, C, C++, Java, C#, Javascript, Typescript
 - 😄 Pronouns: he/him
 <div>
