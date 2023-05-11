@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - Software Consultant
 - ⚙️ Some the programming languages I've used include: Python, C, C++, Java, C#, Javascript, Typescript
 - 😄 Pronouns: he/him
-<div>
+<a href="https://github.com/mbjackson7">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbjackson7&theme=apprentice&langs_count=3" />
-</div>
+</a>
 <!--
 ### 📊 Github Stats
 
