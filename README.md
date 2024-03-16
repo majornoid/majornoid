@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ###   &nbsp;About Me
-- Software Consultant
+- Full Stack Software Consultant
 - ⚙️ Some the programming languages I've used include: Python, C, C++, Java, C#, Javascript, Typescript
 - 😄 Pronouns: he/him
 <a href="https://github.com/mbjackson7">
